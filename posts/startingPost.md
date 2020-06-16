@@ -24,3 +24,10 @@ Some of my main weaknesses that I've found have been
 1.  A Lack of familiarity with general data structures
 2.   A lack of exposure to variations of conventional data structures.
 3.   Slow Coding speed
+
+In a bid to fix these issues, I have implemented the following
+
+1. I spend an hour on average everyday doing some degree of leetcode. This is done using the Habiter App which sends you a reminder every day to do 2 leetcode questions that have been randomly chosen.
+2. I spend an hour more re-doing questions which I have previously encountered. This is tracked using a spreadsheet which utilises a formula to track the optimal time using spaced repetition.
+
+Hopefully this works and all the best for myself (...haha nervous laughter)
